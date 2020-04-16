@@ -1,0 +1,33 @@
+{
+  "name": "node_main.js",
+  "version": "1.0.0",
+  "description": "Quick skeleton setup for node application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogginger/node_main.js.git"
+  },
+  "author": "ogginger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogginger/node_main.js/issues"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.7.2",
+    "fs": "0.0.2",
+    "jquery": "*",
+    "mnist-data": "^1.2.6",
+    "request": "*",
+    "requirejs": "^2.3.6",
+    "vm": "*"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-run": "^0.8.1"
+  },
+  "homepage": "https://github.com/ogginger/node_main.js#readme"
+}
